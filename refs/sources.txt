@@ -1,0 +1,9 @@
+https://github.com/manuclaeys/banditWithR/blob/master/ecml%202024/experiment_simulation.R
+
+https://lig-membres.imag.fr/bisson/cours/M2INFO-AIW-ML/papers/PetitJean11.pdf
+
+https://github.com/fpetitjean/DBA
+
+https://tslearn.readthedocs.io/en/stable/gen_modules/barycenters/tslearn.barycenters.dtw_barycenter_averaging.html
+
+https://hal.science/hal-04612889/document
